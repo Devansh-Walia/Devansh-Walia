@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devansh_walia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devansh_walia_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/devansh-walia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/devansh-walia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devansh-walia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/devansh-walia" height="30" width="40" /></a>
 <a href="https://instagram.com/curious_potato_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="curious_potato_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dunit99k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dunit99k" height="30" width="40" /></a>
 </p>
