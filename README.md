@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh walia</h1>
 <h3 align="center">A passionate Full Stack Developer from Dehradun, India</h3>
 <p>
- I'm a passionate, dynamic person with a flexible and innovative problem-solving approach. I enjoy assisting others, and I strive to create an atmosphere in which all of my peers and friends can work hard and be open with one another. I am a member of the GDSC, where we organize various events relating to various technologies. Sports, chess, swimming, and anything else that allows me to do something different every day are among my favorites. I also enjoy coffee and a good book to go with it. 
+I'm a passionate, dynamic person with a flexible and innovative problem-solving approach. I enjoy assisting others, and I strive to create an atmosphere in which all of my peers and friends can work hard and be open with one another. I am a member of the GDSC, where we organize various events relating to different technologies. I love chess, swimming, karate and basically anything else that allows me to do something different every day. I also enjoy coffee and a good book to go with it.
 </p>
 <!-- <img align="center" padding="20" src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh-walia&show_icons=true&locale=en&layout=compact" alt="devansh-walia" />
 --->
