@@ -31,24 +31,24 @@
 ###
 
 <div align="left">
-    <a href="https://instagram.com/curious_potato_"  style="text-decoration: none;">
+    <a href="https://instagram.com/curious_potato_"  style="text-decoration: none !important;">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 
-  <a href="https://discordapp.com/users/decker8015/" style="text-decoration: none;">
+  <a href="https://discordapp.com/users/decker8015/" style="text-decoration: none !important;">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:devanshwalia9898@gmail.com" style="text-decoration: none;">
+  <a href="mailto:devanshwalia9898@gmail.com" style="text-decoration: none !important;">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.com/in/devansh-walia" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/devansh-walia" style="text-decoration: none !important;">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/devansh_walia_" style="text-decoration: none;">
+  <a href="https://twitter.com/devansh_walia_" style="text-decoration: none !important;">
   <img src="https://img.shields.io/static/v1?message=X (Twitter)&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter"  />
   </a>
   
-  <a href="https://medium.com/@devanshwalia9898" style="text-decoration: none;">
+  <a href="https://medium.com/@devanshwalia9898" style="text-decoration: none !important;">
   <img src="https://img.shields.io/static/v1?message=Medium&logo=Medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium"  />
   </a>
 
