@@ -2,6 +2,12 @@
 
 ###
 
+<style>
+    a{
+        text-decoration: none !important;
+    }
+</style>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devansh-walia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh-walia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -9,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/8gw8gw.gif"  />
 
 ###
 
@@ -25,14 +31,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
 ###
 
 <div align="left">
-    <a href="https://instagram.com/curious_potato_">
+    <a href="https://instagram.com/curious_potato_" >
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 
@@ -61,22 +65,7 @@
 
 <img src="https://raw.githubusercontent.com/devansh-walia/devansh-walia/output/snake.svg" alt="Snake animation" />
 
-###
-
-# Who?
-I'm a passionate, dynamic person with a flexible and innovative problem-solving approach.<br>I'm current working on svelteKit, NextJs and react native.<br>I'm open to collaborate in front end as well as back end solutions.<br>I also enjoy coffee and a good book to go with it.
-
-
-# Streaks!!!
+<br clear="both">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devansh-walia&theme=dracula)](https://git.io/streak-stats)
 
-# Trophies
-![](https://github-profile-trophy.vercel.app/?username=devansh-walia&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
-# Badges
-[![@decker's Holopin board](https://holopin.me/decker)](https://holopin.io/@decker)
-
----
-[![](https://visitcount.itsvg.in/api?id=devansh-walia&icon=0&color=0)](https://visitcount.itsvg.in)
