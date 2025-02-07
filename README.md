@@ -38,7 +38,7 @@
   <a href="https://discordapp.com/users/decker8015/" style="text-decoration: none !important;">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:devanshwalia9898@gmail.com" style="text-decoration: none !important;">
+  <a href="mailto:devansh.walia.06@gmail.com" style="text-decoration: none !important;">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://linkedin.com/in/devansh-walia" style="text-decoration: none !important;">
