@@ -62,5 +62,3 @@
 
 <br clear="both">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devansh-walia&theme=dracula)](https://git.io/streak-stats)
-
