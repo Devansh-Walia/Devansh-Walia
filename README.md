@@ -62,3 +62,7 @@
 
 <br clear="both">
 
+<a href="https://devanshwalia.com" target="_blank"  style="text-decoration: none !important;">
+      More About Me!
+  </a>
+
